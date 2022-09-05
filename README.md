@@ -16,5 +16,7 @@ During the 8-week long introductory course, I learned the basics of MySQL which 
 * backup & restoration
 * data visualisation
 
+At the end of the course, I created and presented my project and demonstrated how to extract data for qeuries typical of this type of database.
+
 ## Course Project :pencil2:
 For the final project I decided to create a database for a first-person shooter game. As well as storing player account details, it also keeps a record of individual in-game performance and has a report system that tracks player reports, with an accompanying ban system.
