@@ -20,3 +20,5 @@ At the end of the course, I compiled what I had learned into a project I created
 
 ## Course Project :pencil2:
 For the final project I decided to create a database for a first-person shooter game. As well as storing player account details, it also keeps a record of individual in-game performance and has a report system that tracks player reports, with an accompanying ban system.
+
+![db diagram](https://raw.githubusercontent.com/tantriciajl/CFG-SQL-Project/main/db_diagram.png)
